@@ -25,3 +25,7 @@ This process goes through the process of model building including
 * Model selection
 * Feature Importance
 * Model tuning
+
+## Submission 1 - XGboostClassifer
+Public score - 0.93248 
+Can definately do better then that.
